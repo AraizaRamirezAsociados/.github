@@ -4,14 +4,6 @@
 
 [📖 Programa de GlobalVOIP](https://globalvoip.com.mx/about/)
 
-# Sistemas de información
-
-### 🔗 Enlaces rápidos
-
-- [⭐ rumoso](https://github.com/MorenaSonora/rumoso) Servicios y API
-- [⭐ dbmoso](https://github.com/MorenaSonora/dbmoso) Base de datos
-- [⭐ proxymoso](https://github.com/MorenaSonora/proxymoso) Proxy inverso
-- [⭐ datos](https://github.com/MorenaSonora/datos) Descarga, limpieza y análisis de datos
 
 ### 🌱 Nuestra visión
          Ser el aliado estratégico de TI de nuestros clientes por ofrecer soluciones 
