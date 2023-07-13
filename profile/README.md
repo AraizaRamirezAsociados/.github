@@ -18,7 +18,11 @@
          puntuales y asertivas de negocio basadas en el conocimiento, la integridad y calidad absolutas
 
 
-### 🎯 Objetivos
+### 🎯  Nuestro propósito
+
+
+      Facilitamos el desempeño de las empresas
+       a través de la innovación tecnológica.
 
 
 
