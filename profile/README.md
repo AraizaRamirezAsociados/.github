@@ -13,8 +13,9 @@
 - [⭐ proxymoso](https://github.com/MorenaSonora/proxymoso) Proxy inverso
 - [⭐ datos](https://github.com/MorenaSonora/datos) Descarga, limpieza y análisis de datos
 
-### 🌱 Contexto
-
+### 🌱 Nuestra visión
+         Ser el aliado estratégico de TI de nuestros clientes por ofrecer soluciones 
+         puntuales y asertivas de negocio basadas en el conocimiento, la integridad y calidad absolutas
 
 
 ### 🎯 Objetivos
