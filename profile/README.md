@@ -1,8 +1,8 @@
 
-### 🌵 GlobalVOIP ☀️
+### 🌵 Araiza-Ramirez Asociados ☀️
 
 
-[📖 Programa de GlobalVOIP](https://globalvoip.com.mx/about/)
+
 
 
 ### 🌱 Nuestra visión
